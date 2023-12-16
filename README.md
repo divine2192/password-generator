@@ -30,6 +30,7 @@ https://stackoverflow.com/questions/61239900/javascript-user-input-password-gene
 
 ## Deployed Application
 https://github.com/divine2192/password-generator
+https://divine2192.github.io/password-generator/starter/index
 
 ## Copyright
 ​© 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
