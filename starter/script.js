@@ -90,10 +90,10 @@ var upperCasedCharacters = [
 
 // Function to prompt user for password options
 function getPasswordOptions() {
-var length = prompt("Enter the length of the password:");
+var length = prompt("Enter the length of the password (At least 8 characters but no more than 128): ");
 // Validate the length input
 while (isNaN(length) || length < 8 || length >128) {
-  alert("Please enter a valid number for password length.");
+  alert("Please enter a valid number for password length");
   length = parseInt(prompt("Enter the length of the password:"));
 }// make sure that the length of password is kept
 var includeUppercase = confirm("Include Uppercase?");
