@@ -29,7 +29,7 @@ https://stackoverflow.com/questions/61239900/javascript-user-input-password-gene
 ![!\[Alt text\](starter/img/analysis.png)](assets/05-javascript-challenge-demo.png)
 
 ## Deployed Application
-https://github.com/divine2192/password-generator
+
 https://divine2192.github.io/password-generator/starter/index
 
 ## Copyright
